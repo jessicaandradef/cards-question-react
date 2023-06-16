@@ -1,2 +1,2 @@
 # cards-question-react
-Created with CodeSandbox
+small project to understand concepts about useState and event handler
